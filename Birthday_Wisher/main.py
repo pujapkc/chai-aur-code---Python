@@ -24,3 +24,4 @@ connection.sendmail(
     msg=f"Subject:Motivation Quote from Puja\n\n {quote}",
 )
 connection.close()
+#
